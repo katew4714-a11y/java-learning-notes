@@ -1,6 +1,6 @@
 {
   "name": "java-learning-notes",
-  "description": "个人Java学习笔记",
+  "description": "\u4e2a\u4ebaJava\u5b66\u4e60\u7b14\u8bb0",
   "version": "1.0.0",
   "license": "MIT",
   "type": "module",
@@ -16,5 +16,12 @@
     "vue": "^3.4.31",
     "vuepress": "2.0.0-rc.14",
     "vuepress-theme-hope": "2.0.0-rc.52"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild",
+      "vue-demi"
+    ]
   }
 }
