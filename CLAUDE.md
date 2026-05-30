@@ -1,3 +1,4 @@
+
 # CLAUDE.md — Java 学习笔记 AI 写作规范
 
 ## 写作任务
