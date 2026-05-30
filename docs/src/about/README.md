@@ -9,7 +9,7 @@ isOriginal: true
 
 ## 联系方式
 
-- **GitHub**: [你的 GitHub 地址]
+- **GitHub**: [toBeKodeBoy](https://github.com/toBeKodeBoy)
 - **邮箱**: [你的邮箱]
 
 ## 学习历程
@@ -22,4 +22,4 @@ isOriginal: true
 
 **如果对你有帮助，欢迎 Star ⭐** 
 
-[GitHub 仓库地址](https://github.com/your-username/java-learning-notes)
+[GitHub 仓库地址](https://github.com/toBeKodeBoy/java-learning-notes)
