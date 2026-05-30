@@ -4,7 +4,7 @@
 
 ## 在线阅读
 
-- [在线网站](https://katew4714-a11y.github.io/java-learning-notes/blog.html)
+- [在线网站](https://toBeKodeBoy.github.io/java-learning-notes/blog.html)
 - [PDF 下载](#)
 
 ## 内容概览
