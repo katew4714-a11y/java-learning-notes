@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://your-domain.com",
+  hostname: "https://toBeKodeBoy.github.io",
 
   author: {
     name: "你的名字",
@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "https://github.com/your-username/java-learning-notes",
+  repo: "https://github.com/toBeKodeBoy/java-learning-notes",
   repoLabel: "GitHub",
   docsDir: "docs/src/",
   docsBranch: "main",
@@ -36,9 +36,9 @@ export default hopeTheme({
     intro: "/about/",
     sidebarDisplay: "mobile",
     avatar: "/logo.svg",
-    description: "学无止境，厚积薄发",
+    description: "学无止境，厚积薄�?,
     medias: {
-      GitHub: "https://github.com/your-username",
+      GitHub: "https://github.com/toBeKodeBoy",
     },
   },
 
